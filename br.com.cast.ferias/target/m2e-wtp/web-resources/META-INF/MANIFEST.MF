@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: plinio
+Build-Jdk: 14.0.1
+Implementation-Title: br.com.cast.ferias
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: ferias-funcionario
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/br.com.cast.ferias
+Created-By: Maven Integration for Eclipse
+
